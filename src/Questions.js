@@ -23,7 +23,7 @@ function Questions() {
         </div>
     );
 }
-function hide(ids) {
-    document.getElementById(ids).style.visibility="hidden";
-}
+//function hide(ids) {
+  //  document.getElementById(ids).style.visibility="hidden";
+//}
 export default Questions;
