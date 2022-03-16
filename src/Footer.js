@@ -37,8 +37,8 @@ function Footer () {
             <img src= {linkdin} alt="LinkdIn" width="20rem"></img>
             <img src= {twitter} alt="Twitter" width="20rem"></img><br/>
         &copy 2021 Mealful Inc.<br/>
-        <a href="#">Terms of Services</a>
-        <a href="#">Privacy Policy</a>
+        <a href="www.termify.io">Terms of Services</a>
+        <a href="www.policymarker.com">Privacy Policy</a>
         </div>
         </div>
     );
