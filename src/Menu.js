@@ -67,7 +67,7 @@ function Menu() {
                     <div className="chef">by Freshii</div>
                 </div>
             </div>
-            <a href="#" className="button">Sign-up for free to view 50 more items</a>   
+            <a href="www.signup.com" className="button">Sign-up for free to view 50 more items</a>   
         </div>
     );
 }
