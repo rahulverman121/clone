@@ -23,6 +23,7 @@ ol {
     flex : 40% ;
     display : flex ;
     list-style-type : none ;
+    justify-content : center ;
 }
 ul {
     float : right ;
