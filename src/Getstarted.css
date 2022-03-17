@@ -27,5 +27,12 @@
     text-decoration: none ;
     font-family: bold ;
     margin-top : 2rem ;
-    display : flex ;
+    display : block ;
+}
+
+@media only screen and (max-width: 475px) {
+           .image {
+               display : none ;
+               visibility : hidden ;
+    }
 }
