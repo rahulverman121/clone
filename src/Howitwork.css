@@ -6,6 +6,9 @@
     width : 100% ;
     
 }
+.schedule {
+    max-width : 30rem ;    
+}
 .procedure {
     display : flex ; 
     flex-wrap : wrap ;
