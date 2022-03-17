@@ -12,7 +12,7 @@
 .pangoa {
     flex : 20% ;
     height : 15rem ; 
-    width : 2rem ;
+    width : auto ;
     border-radius : 6%;
     overflow : hidden ; 
     margin : 1rem ;
