@@ -53,3 +53,9 @@ button {
     border-radius : .8rem;
     
 }
+
+.navbtn {
+    font-size : 2rem ;
+    font-weight : bold ;
+    line-height : 45%
+}
