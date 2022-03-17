@@ -66,8 +66,9 @@ function Menu() {
                     <div className="foodname">Teriyaki-twist bowl</div>
                     <div className="chef">by Freshii</div>
                 </div>
-            </div>
+            </div><center>
             <a href="www.signup.com" className="button">Sign-up for free to view 50 more items</a>   
+</center>
         </div>
     );
 }
