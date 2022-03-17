@@ -19,12 +19,13 @@
     border-radius : 6%;
     overflow : hidden ; 
     margin : 1rem ;
+    cursor : pointer ;
 }
 .pangoa:hover {
     border: 1px solid black;
  }
 .pangoa>img { 
-    height : 7rem ; 
+    height : 7.6rem ; 
     object-fit : contain ;
 }
 .button {
