@@ -13,6 +13,7 @@ function Header() {
     <ul className="right">
     <li>Log in </li>
     <li><button>Sign up</button></li>
+        <li class="navbtn">_ <br/>_<br/> _</li>
      </ul>
      </div>
     );
