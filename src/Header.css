@@ -58,6 +58,11 @@ button {
     font-size : 2.8rem ;
     font-weight : bold ;
     line-height : 0% ;
-
+    visibility : hidden ;
     
+}
+@media only screen and (max-width=475px) {
+    .navbtn {
+        visibility : visible ;
+    }
 }
