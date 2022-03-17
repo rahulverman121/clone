@@ -27,4 +27,5 @@
     text-decoration: none ;
     font-family: bold ;
     margin-top : 2rem ;
+    display : flex ;
 }
