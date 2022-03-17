@@ -13,7 +13,7 @@ function Header() {
     <ul className="right">
     <li>Log in </li>
     <li><button>Sign up</button></li>
-        <li class="navbtn" style="top:0rem;margin-right:1rem;position:absolute;"><sup>_ <br/>_<br/> _</sup></li>
+        <li class="navbtn" style="top:0rem;margin-right:2%;position:absolute;"><sup>_ <br/>_<br/> _</sup></li>
      </ul>
      </div>
     );
