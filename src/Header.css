@@ -70,6 +70,6 @@ button {
     }
     .navbtn {
         visibility : visible ;
-        top:0;margin-right:2rem;position:absolute;
+        top:0;margin-right:-4rem;position:absolute;
     }
 }
