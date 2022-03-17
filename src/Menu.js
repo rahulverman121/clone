@@ -12,7 +12,7 @@ import Teriyaki from './Teriyaki.jpg';
 function Menu() {
     return (
         <div id="menu">
-            <h1 className="center">So what's on the menu?</h1>
+            <div className="center title">So what's on the menu?</div>
             Our delicious meals are served hot and fresh twice daily - 
             no waiting near your microwave, no eating stale meals from your fridge.
             <div className="food">
