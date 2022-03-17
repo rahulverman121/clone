@@ -1,6 +1,7 @@
 .started {
     display : flex ; 
     margin : 13% 15% 1% 15% ;
+    flex-wrap : wrap ;
 }
 .starttitle {
     font-size : 2.6rem ;
