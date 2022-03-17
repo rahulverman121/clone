@@ -61,7 +61,7 @@ button {
     visibility : hidden ;
     
 }
-@media only screen and (max-width=475px) {
+@media only screen and (max-width: 475px) {
     .navbtn {
         visibility : visible ;
     }
